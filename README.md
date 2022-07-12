@@ -3,7 +3,7 @@ Environments for non-stationary meta-RL problems
 
 This repository contains the environments investigated in the masterthesis `Meta-Reinforcement Learning in Non-Stationary and Dynamic Environments`.
 Its current main usage is supporting the implementation of the `Continuous Environment Meta-Reinforcement Learning (CEMRL)`
-algorithm (see [CEMRL](https://github.com/LerchD/cemrl_thesis)).
+algorithm (see [CEMRL](https://github.com/BZSROCKETS/cemrl)).
 This repository is inspired by [rand_param_envs](https://github.com/dennisl88/rand_param_envs).
 
 --------------------------------------
